@@ -7,6 +7,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg"
@@ -28,13 +29,13 @@
      inkscape:window-height="692"
      id="namedview1096"
      showgrid="false"
-     inkscape:zoom="0.62933333"
-     inkscape:cx="595.22043"
-     inkscape:cy="373.78344"
+     inkscape:zoom="0.48399235"
+     inkscape:cx="300.09449"
+     inkscape:cy="483.47147"
      inkscape:window-x="0"
      inkscape:window-y="336"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g3128"
+     inkscape:current-layer="g3415"
      inkscape:snap-center="true"
      showguides="true"
      inkscape:guide-bbox="true">
@@ -82,7 +83,7 @@
   </metadata>
   <g
      id="layer1"
-     style="display:none"
+     style="display:inline"
      inkscape:label="01-First"
      transform="translate(0,-302.36)"
      inkscape:groupmode="layer"
@@ -371,8 +372,1636 @@
          sodipodi:role="line">?</tspan></text>
   </g>
   <g
+     id="g3415"
+     style="opacity:0.98999999;display:inline"
+     inkscape:label="04"
+     transform="translate(0,-302.36)"
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
+    <rect
+       id="rect3417"
+       style="fill-rule:evenodd;display:inline"
+       ry="0"
+       height="750"
+       width="1000"
+       y="302.35999"
+       x="0" />
+    <text
+       id="text3419"
+       style="font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;font-family:Linux Libertine Display O"
+       xml:space="preserve"
+       transform="translate(0,302.36)"
+       y="100.61622"
+       x="236.66431"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan3421"
+         x="236.66431"
+         y="100.61622" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:74.50119781px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Linux Biolinum O;-inkscape-font-specification:Linux Biolinum O"
+       x="53.409695"
+       y="433.86966"
+       id="text3437"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3439"
+         x="53.409695"
+         y="433.86966">This is not about</tspan><tspan
+         sodipodi:role="line"
+         x="53.409695"
+         y="526.99615"
+         id="tspan3445">cohorst of users.</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3441"
+       y="734.22546"
+       x="417.67496"
+       style="font-size:91.72592926px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Linux Biolinum O;-inkscape-font-specification:Linux Biolinum O"
+       xml:space="preserve"><tspan
+         y="734.22546"
+         x="417.67496"
+         id="tspan3443"
+         sodipodi:role="line">This is about</tspan><tspan
+         y="848.88287"
+         x="417.67496"
+         sodipodi:role="line"
+         id="tspan3449">collections of</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:158.1524353px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Linux Biolinum O;-inkscape-font-specification:Linux Biolinum O"
+       x="417.60925"
+       y="981.17517"
+       id="text3453"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan3457"
+         sodipodi:role="line"
+         x="417.60925"
+         y="981.17517">content</tspan></text>
+  </g>
+  <g
+     id="g3072"
+     style="opacity:0.98999999;display:inline"
+     inkscape:label="10-Research question"
+     transform="translate(0,-302.36)"
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
+    <text
+       id="text3076"
+       style="font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;font-family:Linux Libertine Display O"
+       xml:space="preserve"
+       transform="translate(0,302.36)"
+       y="100.61622"
+       x="236.66431"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan3078"
+         x="236.66431"
+         y="100.61622" /></text>
+    <image
+       y="543.0307"
+       x="0"
+       id="image4210"
+       xlink:href="file:///home/jfk/Tuile/Presentations/wm_metrics-Wikimania-2014-08-08/media/Highlighters.jpg"
+       height="507.32928"
+       width="676.43903" />
+    <text
+       xml:space="preserve"
+       style="font-size:101.17749023px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Linux Biolinum O;-inkscape-font-specification:Linux Biolinum O"
+       x="339.69269"
+       y="519.23846"
+       id="text3094"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="339.69269"
+         y="519.23846"
+         id="tspan3098">done by</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4213"
+       y="401.04199"
+       x="837.39221"
+       style="font-size:101.17749023px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#e61e01;fill-opacity:0.99215686;stroke:none;font-family:Linux Biolinum O;-inkscape-font-specification:Linux Biolinum O"
+       xml:space="preserve"><tspan
+         id="tspan4217"
+         y="401.04199"
+         x="837.39221"
+         sodipodi:role="line">work</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4221"
+       y="401.04199"
+       x="363.51102"
+       style="font-size:101.17749023px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Linux Biolinum O;-inkscape-font-specification:Linux Biolinum O"
+       xml:space="preserve"><tspan
+         id="tspan4223"
+         y="401.04199"
+         x="363.51105"
+         sodipodi:role="line">Highlighting the</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4227"
+       y="519.23846"
+       x="735.64465"
+       style="font-size:101.17749023px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#47af3c;fill-opacity:0.99215896;stroke:none;font-family:Linux Biolinum O;-inkscape-font-specification:Linux Biolinum O"
+       xml:space="preserve"><tspan
+         id="tspan4229"
+         y="519.23846"
+         x="735.64465"
+         sodipodi:role="line">volunteers</tspan></text>
+    <rect
+       height="30"
+       x="0"
+       y="1022.36"
+       width="437.46063"
+       class="license"
+       style="opacity:0.98999999;fill:#ffffff;fill-opacity:0.63999999;display:inline"
+       id="rect4173-9" />
+    <text
+       sodipodi:linespacing="125%"
+       xml:space="preserve"
+       x="9.8661194"
+       y="1043.1993"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:0.98999999;fill:#000000;display:inline;font-family:Linux Biolinum O;-inkscape-font-specification:Linux Biolinum O"
+       id="text4175-1"><tspan
+         sodipodi:role="line"
+         id="tspan4263"
+         x="9.8661194"
+         y="1043.1993">photosteve101 / planetofsuccess.com/blog / CC-By</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     transform="translate(0,-302.36)"
+     inkscape:label="20-History"
+     style="opacity:0.98999999;display:inline"
+     id="g3100"
+     sodipodi:insensitive="true">
+    <rect
+       x="0"
+       y="302.35999"
+       width="1000"
+       height="750"
+       ry="0"
+       style="fill-rule:evenodd;display:inline"
+       id="rect3102" />
+    <text
+       sodipodi:linespacing="125%"
+       x="236.66431"
+       y="100.61622"
+       transform="translate(0,302.36)"
+       xml:space="preserve"
+       style="font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;font-family:Linux Libertine Display O"
+       id="text3104"><tspan
+         y="100.61622"
+         x="236.66431"
+         id="tspan3106" /></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3108"
+       y="698.15198"
+       x="495.64462"
+       style="font-size:101.17749023px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Linux Biolinum O;-inkscape-font-specification:Linux Biolinum O"
+       xml:space="preserve"><tspan
+         id="tspan3112"
+         y="698.15198"
+         x="495.64462"
+         sodipodi:role="line">History</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Linux Biolinum O;-inkscape-font-specification:Linux Biolinum O"
+       x="75.644623"
+       y="1017.4456"
+       id="text3116"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="75.644623"
+         y="1017.4456"
+         id="tspan3118">History</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3121"
+       y="1017.4456"
+       x="238.13579"
+       style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Linux Biolinum O;-inkscape-font-specification:Linux Biolinum O"
+       xml:space="preserve"><tspan
+         id="tspan3123"
+         y="1017.4456"
+         x="238.13579"
+         sodipodi:role="line">Values</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Linux Biolinum O;-inkscape-font-specification:Linux Biolinum O"
+       x="406.19781"
+       y="1017.4456"
+       id="text3125"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="406.19781"
+         y="1017.4456"
+         id="tspan3127">Internals</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3129"
+       y="1017.4456"
+       x="915.64465"
+       style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Linux Biolinum O;-inkscape-font-specification:Linux Biolinum O"
+       xml:space="preserve"><tspan
+         id="tspan3131"
+         y="1017.4456"
+         x="915.64465"
+         sodipodi:role="line">Future</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Linux Biolinum O;-inkscape-font-specification:Linux Biolinum O"
+       x="570.83209"
+       y="1017.4456"
+       id="text3133"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="570.83209"
+         y="1017.4456"
+         id="tspan3135">Demo</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3137"
+       y="1017.4456"
+       x="741.45959"
+       style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Linux Biolinum O;-inkscape-font-specification:Linux Biolinum O"
+       xml:space="preserve"><tspan
+         id="tspan3139"
+         y="1017.4456"
+         x="741.45959"
+         sodipodi:role="line">Learnings</tspan></text>
+  </g>
+  <g
+     id="g3320"
+     style="opacity:0.98999999;display:inline"
+     inkscape:label="21-History2"
+     transform="translate(0,-302.36)"
+     inkscape:groupmode="layer">
+    <rect
+       id="rect3322"
+       style="fill-rule:evenodd;display:inline"
+       ry="0"
+       height="750"
+       width="1000"
+       y="302.35999"
+       x="0" />
+    <text
+       id="text3324"
+       style="font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;font-family:Linux Libertine Display O"
+       xml:space="preserve"
+       transform="translate(0,302.36)"
+       y="100.61622"
+       x="236.66431"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan3326"
+         x="236.66431"
+         y="100.61622" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:94.1390686px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Linux Libertine Display O;-inkscape-font-specification:Linux Libertine Display O"
+       x="29.293068"
+       y="402.0965"
+       id="text3372"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3374"
+         x="29.293068"
+         y="402.0965">2010</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3381"
+       y="606.89026"
+       x="148.46819"
+       style="font-size:94.1390686px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Linux Libertine Display O;-inkscape-font-specification:Linux Libertine Display O"
+       xml:space="preserve"><tspan
+         y="606.89026"
+         x="148.46819"
+         id="tspan3383"
+         sodipodi:role="line">2011</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:94.1390686px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Linux Libertine Display O;-inkscape-font-specification:Linux Libertine Display O"
+       x="324.83398"
+       y="795.81635"
+       id="text3385"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3387"
+         x="324.83398"
+         y="795.81635">2011-2013</tspan><tspan
+         sodipodi:role="line"
+         x="324.83398"
+         y="913.49017"
+         id="tspan3389" /></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3391"
+       y="956.55957"
+       x="555.58112"
+       style="font-size:94.1390686px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Linux Libertine Display O;-inkscape-font-specification:Linux Libertine Display O"
+       xml:space="preserve"><tspan
+         id="tspan3395"
+         y="956.55957"
+         x="555.58112"
+         sodipodi:role="line">2013 - …</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Linux Libertine Display O;-inkscape-font-specification:Linux Libertine Display O"
+       x="161.04282"
+       y="656.90076"
+       id="text3399"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3401"
+         x="161.04282"
+         y="656.90076">Trutat mass upload: dump analysis</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3403"
+       y="458.90076"
+       x="43.042824"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Linux Libertine Display O;-inkscape-font-specification:Linux Libertine Display O"
+       xml:space="preserve"><tspan
+         y="458.90076"
+         x="43.042824"
+         id="tspan3405"
+         sodipodi:role="line">BnF &amp; Wikisource [[meta:BnF]]</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3407"
+       y="850.90076"
+       x="339.04282"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Linux Libertine Display O;-inkscape-font-specification:Linux Libertine Display O"
+       xml:space="preserve"><tspan
+         y="850.90076"
+         x="339.04282"
+         id="tspan3409"
+         sodipodi:role="line">Database queries</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Linux Libertine Display O;-inkscape-font-specification:Linux Libertine Display O"
+       x="565.04285"
+       y="1006.9008"
+       id="text3411"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3413"
+         x="565.04285"
+         y="1006.9008">Program Evaluation Era</tspan></text>
+  </g>
+  <g
+     id="g3141"
+     style="opacity:0.98999999;display:inline"
+     inkscape:label="30-Values"
+     transform="translate(0,-302.36)"
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
+    <rect
+       id="rect3143"
+       style="fill-rule:evenodd;display:inline"
+       ry="0"
+       height="750"
+       width="1000"
+       y="302.35999"
+       x="0" />
+    <text
+       id="text3145"
+       style="font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;font-family:Linux Libertine Display O"
+       xml:space="preserve"
+       transform="translate(0,302.36)"
+       y="100.61622"
+       x="236.66431"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan3147"
+         x="236.66431"
+         y="100.61622" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:101.17749023px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Linux Biolinum O;-inkscape-font-specification:Linux Biolinum O"
+       x="495.64462"
+       y="698.15198"
+       id="text3149"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="495.64462"
+         y="698.15198"
+         id="tspan3151">Values</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3153"
+       y="1017.4456"
+       x="75.644623"
+       style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Linux Biolinum O;-inkscape-font-specification:Linux Biolinum O"
+       xml:space="preserve"><tspan
+         id="tspan3155"
+         y="1017.4456"
+         x="75.644623"
+         sodipodi:role="line">History</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Linux Biolinum O;-inkscape-font-specification:Linux Biolinum O"
+       x="238.13579"
+       y="1017.4456"
+       id="text3157"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="238.13579"
+         y="1017.4456"
+         id="tspan3159">Values</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3161"
+       y="1017.4456"
+       x="406.19781"
+       style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Linux Biolinum O;-inkscape-font-specification:Linux Biolinum O"
+       xml:space="preserve"><tspan
+         id="tspan3163"
+         y="1017.4456"
+         x="406.19781"
+         sodipodi:role="line">Internals</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Linux Biolinum O;-inkscape-font-specification:Linux Biolinum O"
+       x="915.64465"
+       y="1017.4456"
+       id="text3165"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="915.64465"
+         y="1017.4456"
+         id="tspan3167">Future</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3169"
+       y="1017.4456"
+       x="570.83209"
+       style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Linux Biolinum O;-inkscape-font-specification:Linux Biolinum O"
+       xml:space="preserve"><tspan
+         id="tspan3171"
+         y="1017.4456"
+         x="570.83209"
+         sodipodi:role="line">Demo</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Linux Biolinum O;-inkscape-font-specification:Linux Biolinum O"
+       x="741.45959"
+       y="1017.4456"
+       id="text3173"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="741.45959"
+         y="1017.4456"
+         id="tspan3175">Learnings</tspan></text>
+  </g>
+  <g
+     id="g4591"
+     style="opacity:0.98999999;display:inline"
+     inkscape:label="31-Reproductability"
+     transform="translate(0,-302.36)"
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
+    <rect
+       id="rect4593"
+       style="fill-rule:evenodd;display:inline"
+       ry="0"
+       height="750"
+       width="1000"
+       y="302.35999"
+       x="0" />
+    <text
+       id="text4597"
+       style="font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;font-family:Linux Libertine Display O"
+       xml:space="preserve"
+       transform="translate(0,302.36)"
+       y="100.61622"
+       x="236.66431"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan4599"
+         x="236.66431"
+         y="100.61622" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:101.17749023px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#cc2d13;fill-opacity:0.99215686;stroke:none;font-family:Linux Biolinum O;-inkscape-font-specification:Linux Biolinum O"
+       x="496.65405"
+       y="700.6814"
+       id="text4601"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="496.65405"
+         y="700.6814"
+         id="tspan4603">Reproducibility</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     transform="translate(0,-302.36)"
+     inkscape:label="32-Scalability"
+     style="opacity:0.98999999;display:inline"
+     id="g4611"
+     sodipodi:insensitive="true">
+    <rect
+       x="0"
+       y="302.35999"
+       width="1000"
+       height="750"
+       ry="0"
+       style="fill-rule:evenodd;display:inline"
+       id="rect4613" />
+    <text
+       sodipodi:linespacing="125%"
+       x="236.66431"
+       y="100.61622"
+       transform="translate(0,302.36)"
+       xml:space="preserve"
+       style="font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;font-family:Linux Libertine Display O"
+       id="text4615"><tspan
+         y="100.61622"
+         x="236.66431"
+         id="tspan4617" /></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4619"
+       y="700.6814"
+       x="496.65405"
+       style="font-size:101.17749023px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#cc2d13;fill-opacity:0.99215686;stroke:none;font-family:Linux Biolinum O;-inkscape-font-specification:Linux Biolinum O"
+       xml:space="preserve"><tspan
+         id="tspan4621"
+         y="700.6814"
+         x="496.65405"
+         sodipodi:role="line">Scalability</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     transform="translate(0,-302.36)"
+     inkscape:label="33-Protean"
+     style="opacity:0.98999999;display:inline"
+     id="g3177"
+     sodipodi:insensitive="true">
+    <rect
+       x="0"
+       y="302.35999"
+       width="1000"
+       height="750"
+       ry="0"
+       style="fill-rule:evenodd;display:inline"
+       id="rect3179" />
+    <image
+       y="302.35999"
+       x="0"
+       id="image3232"
+       xlink:href="file:///home/jfk/Tuile/Presentations/wm_metrics-Wikimania-2014-08-08/media/Kneading_-_colordul_plate.jpg"
+       height="750"
+       width="1125" />
+    <text
+       sodipodi:linespacing="125%"
+       x="236.66431"
+       y="100.61622"
+       transform="translate(0,302.36)"
+       xml:space="preserve"
+       style="font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;font-family:Linux Libertine Display O"
+       id="text3181"><tspan
+         y="100.61622"
+         x="236.66431"
+         id="tspan3183" /></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3185"
+       y="392.76248"
+       x="833.84106"
+       style="font-size:101.17749023px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#cc2d13;fill-opacity:0.99215686;stroke:none;font-family:Linux Biolinum O;-inkscape-font-specification:Linux Biolinum O"
+       xml:space="preserve"><tspan
+         id="tspan3187"
+         y="392.76248"
+         x="833.84106"
+         sodipodi:role="line">Protean</tspan></text>
+    <rect
+       id="rect408-9-9-9-3-4"
+       style="fill:#ffffff;fill-opacity:0.63999999;display:inline"
+       class="license"
+       width="178.4753"
+       y="1022.36"
+       x="0"
+       height="30" />
+    <text
+       id="text3790-2"
+       style="font-size:20px;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;display:inline;font-family:Linux Biolinum O"
+       y="1043.1993"
+       x="9.8661337"
+       xml:space="preserve"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan3792-56"
+         y="1043.1993"
+         x="9.8661337">yasamaster, CC-By</tspan></text>
+  </g>
+  <g
+     id="g4623"
+     style="opacity:0.98999999;display:inline"
+     inkscape:label="33-X"
+     transform="translate(0,-302.36)"
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
+    <rect
+       id="rect4625"
+       style="fill-rule:evenodd;display:inline"
+       ry="0"
+       height="750"
+       width="1000"
+       y="302.35999"
+       x="0" />
+    <text
+       id="text4627"
+       style="font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;font-family:Linux Libertine Display O"
+       xml:space="preserve"
+       transform="translate(0,302.36)"
+       y="100.61622"
+       x="236.66431"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan4629"
+         x="236.66431"
+         y="100.61622" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:101.17749023px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#cc2d13;fill-opacity:0.99215686;stroke:none;font-family:Linux Biolinum O;-inkscape-font-specification:Linux Biolinum O"
+       x="496.65405"
+       y="580.6814"
+       id="text4631"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="496.65405"
+         y="580.6814"
+         id="tspan4635">Burden on the</tspan><tspan
+         sodipodi:role="line"
+         x="496.65405"
+         y="707.15326"
+         id="tspan4639">evaluators,</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4641"
+       y="830.6814"
+       x="496.65405"
+       style="font-size:101.17749023px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#cc2d13;fill-opacity:0.99215686;stroke:none;font-family:Linux Biolinum O;-inkscape-font-specification:Linux Biolinum O"
+       xml:space="preserve"><tspan
+         id="tspan4645"
+         y="830.6814"
+         x="496.65405"
+         sodipodi:role="line">not the user</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     transform="translate(0,-302.36)"
+     inkscape:label="40-Internals"
+     style="opacity:0.98999999;display:inline"
+     id="g3252"
+     sodipodi:insensitive="true">
+    <rect
+       x="0"
+       y="302.35999"
+       width="1000"
+       height="750"
+       ry="0"
+       style="fill-rule:evenodd;display:inline"
+       id="rect3254" />
+    <text
+       sodipodi:linespacing="125%"
+       x="236.66431"
+       y="100.61622"
+       transform="translate(0,302.36)"
+       xml:space="preserve"
+       style="font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;font-family:Linux Libertine Display O"
+       id="text3256"><tspan
+         y="100.61622"
+         x="236.66431"
+         id="tspan3258" /></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3260"
+       y="698.15198"
+       x="495.64462"
+       style="font-size:101.17749023px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Linux Biolinum O;-inkscape-font-specification:Linux Biolinum O"
+       xml:space="preserve"><tspan
+         id="tspan3262"
+         y="698.15198"
+         x="495.64462"
+         sodipodi:role="line">Internals</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:0.39215686;stroke:none;font-family:Linux Biolinum O;-inkscape-font-specification:Linux Biolinum O"
+       x="75.644623"
+       y="1017.4456"
+       id="text3264"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="75.644623"
+         y="1017.4456"
+         id="tspan3266">History</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3268"
+       y="1017.4456"
+       x="238.13579"
+       style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:0.39215686;stroke:none;font-family:Linux Biolinum O;-inkscape-font-specification:Linux Biolinum O"
+       xml:space="preserve"><tspan
+         id="tspan3270"
+         y="1017.4456"
+         x="238.13579"
+         sodipodi:role="line">Values</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Linux Biolinum O;-inkscape-font-specification:Linux Biolinum O"
+       x="406.19781"
+       y="1017.4456"
+       id="text3272"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="406.19781"
+         y="1017.4456"
+         id="tspan3274">Internals</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3276"
+       y="1017.4456"
+       x="915.64465"
+       style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:0.39215686;stroke:none;font-family:Linux Biolinum O;-inkscape-font-specification:Linux Biolinum O"
+       xml:space="preserve"><tspan
+         id="tspan3278"
+         y="1017.4456"
+         x="915.64465"
+         sodipodi:role="line">Future</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:0.39215686;stroke:none;font-family:Linux Biolinum O;-inkscape-font-specification:Linux Biolinum O"
+       x="570.83209"
+       y="1017.4456"
+       id="text3280"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="570.83209"
+         y="1017.4456"
+         id="tspan3282">Demo</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3284"
+       y="1017.4456"
+       x="741.45959"
+       style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:0.39215686;stroke:none;font-family:Linux Biolinum O;-inkscape-font-specification:Linux Biolinum O"
+       xml:space="preserve"><tspan
+         id="tspan3286"
+         y="1017.4456"
+         x="741.45959"
+         sodipodi:role="line">Learnings</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     transform="translate(0,-302.36)"
+     inkscape:label="41-Tracking"
+     style="opacity:0.98999999;display:inline"
+     id="g4682"
+     sodipodi:insensitive="true">
+    <rect
+       x="0"
+       y="302.35999"
+       width="1000"
+       height="750"
+       ry="0"
+       style="fill-rule:evenodd;display:inline"
+       id="rect4684" />
+    <text
+       sodipodi:linespacing="125%"
+       x="236.66431"
+       y="100.61622"
+       transform="translate(0,302.36)"
+       xml:space="preserve"
+       style="font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;font-family:Linux Libertine Display O"
+       id="text4688"><tspan
+         y="100.61622"
+         x="236.66431"
+         id="tspan4690" /></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4692"
+       y="392.76248"
+       x="744.29852"
+       style="font-size:101.17749023px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#ffffff;fill-opacity:0.99215896;stroke:none;font-family:Linux Biolinum O;-inkscape-font-specification:Linux Biolinum O"
+       xml:space="preserve"><tspan
+         id="tspan4696"
+         y="392.76248"
+         x="744.29852"
+         sodipodi:role="line">Tracking strategy</tspan></text>
+    <rect
+       id="rect4698"
+       style="fill:#ffffff;fill-opacity:0.63999999;display:inline"
+       class="license"
+       width="307.68707"
+       y="1022.36"
+       x="0"
+       height="30" />
+    <text
+       id="text4700"
+       style="font-size:20px;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;display:inline;font-family:Linux Biolinum O"
+       y="1043.1993"
+       x="9.8661337"
+       xml:space="preserve"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan4702"
+         y="1043.1993"
+         x="9.8661337">  Javier Ramos Pinochet, CCBy-SA</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:58.4058876px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:0.99215896;stroke:none;font-family:LMMono10;-inkscape-font-specification:LMMono10"
+       x="22.056482"
+       y="542.91632"
+       id="text4704"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan4710"
+         sodipodi:role="line"
+         x="22.056482"
+         y="542.91632">{{Supported by Wikimedia France</tspan><tspan
+         sodipodi:role="line"
+         x="22.056482"
+         y="615.92371"
+         id="tspan4719">&lt;topic&gt;</tspan><tspan
+         sodipodi:role="line"
+         x="22.056482"
+         y="688.93103"
+         id="tspan4729">|quarter=2</tspan><tspan
+         sodipodi:role="line"
+         x="22.056482"
+         y="761.93842"
+         id="tspan4721">|year=2010</tspan><tspan
+         sodipodi:role="line"
+         x="22.056482"
+         y="834.94574"
+         id="tspan4727">}}</tspan></text>
+  </g>
+  <g
+     id="g4056"
+     style="opacity:0.98999999;display:inline"
+     inkscape:label="42-Giants"
+     transform="translate(0,-302.36)"
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
+    <rect
+       id="rect4058"
+       style="fill-rule:evenodd;display:inline"
+       ry="0"
+       height="750"
+       width="1000"
+       y="302.35999"
+       x="0" />
+    <image
+       y="269.35999"
+       x="-40"
+       id="image4084"
+       xlink:href="file:///home/jfk/Tuile/Presentations/wm_metrics-Wikimania-2014-08-08/media/Rapa_Nui,_Rano_Raraku.JPG"
+       height="803"
+       width="1200" />
+    <text
+       id="text4062"
+       style="font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;font-family:Linux Libertine Display O"
+       xml:space="preserve"
+       transform="translate(0,302.36)"
+       y="100.61622"
+       x="236.66431"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan4064"
+         x="236.66431"
+         y="100.61622" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:101.17749023px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#71503a;fill-opacity:0.99215896;stroke:none;font-family:Linux Biolinum O;-inkscape-font-specification:Linux Biolinum O"
+       x="984.29852"
+       y="392.76248"
+       id="text4066"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="984.29852"
+         y="392.76248"
+         id="tspan4068">Shoulders</tspan><tspan
+         sodipodi:role="line"
+         x="984.29852"
+         y="519.23438"
+         id="tspan4088">of giants</tspan></text>
+    <rect
+       height="30"
+       x="0"
+       y="1022.36"
+       width="307.68707"
+       class="license"
+       style="fill:#ffffff;fill-opacity:0.63999999;display:inline"
+       id="rect4070" />
+    <text
+       sodipodi:linespacing="125%"
+       xml:space="preserve"
+       x="9.8661337"
+       y="1043.1993"
+       style="font-size:20px;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;display:inline;font-family:Linux Biolinum O"
+       id="text4072"><tspan
+         x="9.8661337"
+         y="1043.1993"
+         id="tspan4074">  Javier Ramos Pinochet, CCBy-SA</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4096"
+       y="656.76373"
+       x="992.51648"
+       style="font-size:57.97543716px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#71503a;fill-opacity:0.99215896;stroke:none;font-family:Linux Biolinum O;-inkscape-font-specification:Linux Biolinum O"
+       xml:space="preserve"><tspan
+         id="tspan4100"
+         y="656.76373"
+         x="992.51648"
+         sodipodi:role="line">Dumps</tspan><tspan
+         y="729.23303"
+         x="992.51648"
+         sodipodi:role="line"
+         id="tspan4104">MediaWiki API</tspan><tspan
+         y="801.70233"
+         x="992.51648"
+         sodipodi:role="line"
+         id="tspan4108">Database queries</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     transform="translate(0,-302.36)"
+     inkscape:label="43-Swiss"
+     style="opacity:0.98999999;display:inline"
+     id="g4118"
+     sodipodi:insensitive="true">
+    <text
+       sodipodi:linespacing="125%"
+       x="236.66431"
+       y="100.61622"
+       transform="translate(0,302.36)"
+       xml:space="preserve"
+       style="font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;font-family:Linux Libertine Display O"
+       id="text4124"><tspan
+         y="100.61622"
+         x="236.66431"
+         id="tspan4126" /></text>
+    <image
+       y="376.15619"
+       x="0"
+       id="image4156"
+       xlink:href="file:///home/jfk/Tuile/Presentations/wm_metrics-Wikimania-2014-08-08/media/Wenger_EvoGrip_S17.jpg"
+       height="576.2038"
+       width="997.75549" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4128"
+       y="392.76248"
+       x="564.29852"
+       style="font-size:101.17749023px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#7b0300;fill-opacity:0.99215686;stroke:none;font-family:Linux Biolinum O;-inkscape-font-specification:Linux Biolinum O"
+       xml:space="preserve"><tspan
+         id="tspan4132"
+         y="392.76248"
+         x="564.29852"
+         sodipodi:role="line">A set of tools</tspan></text>
+    <rect
+       id="rect4134"
+       style="fill:#ffffff;fill-opacity:0.63999999;display:inline"
+       class="license"
+       width="307.68707"
+       y="1022.36"
+       x="0"
+       height="30" />
+    <text
+       id="text4136"
+       style="font-size:20px;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;display:inline;font-family:Linux Biolinum O"
+       y="1043.1993"
+       x="9.8661337"
+       xml:space="preserve"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan4138"
+         y="1043.1993"
+         x="9.8661337">D-M Commons CCBy-SA</tspan></text>
+  </g>
+  <g
+     id="g4161"
+     style="opacity:0.98999999;display:inline"
+     inkscape:label="44-Toollabs"
+     transform="translate(0,-302.36)"
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
+    <text
+       id="text4163"
+       style="font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;font-family:Linux Libertine Display O"
+       xml:space="preserve"
+       transform="translate(0,302.36)"
+       y="100.61622"
+       x="236.66431"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan4165"
+         x="236.66431"
+         y="100.61622" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:101.17749023px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#006699;fill-opacity:0.99215686;stroke:none;font-family:Linux Biolinum O;-inkscape-font-specification:Linux Biolinum O"
+       x="984.29852"
+       y="412.76248"
+       id="text4169"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="984.29852"
+         y="412.76248"
+         id="tspan4171">Proudly powered</tspan><tspan
+         sodipodi:role="line"
+         x="984.29852"
+         y="539.23438"
+         id="tspan4680">by ToolLabs</tspan></text>
+    <rect
+       height="30"
+       x="0"
+       y="1022.36"
+       width="307.68707"
+       class="license"
+       style="fill:#ffffff;fill-opacity:0.63999999;display:inline"
+       id="rect4173" />
+    <g
+       id="layer5"
+       transform="matrix(1.3914744,0,0,1.3914744,-321.11354,110.40306)"
+       style="fill:#339966;fill-opacity:0.99215686">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 352.90538,228.90724 c 0,0 1.71353,12.34205 -6.87413,19.90526 -19.44108,17.1219 -47.40736,38.50284 -50.5,46.40625 -3.09264,7.90341 1.03088,19.25049 1.03088,19.25049 0,0 -8.93787,4.47308 -10.99963,17.87451 -1.10841,7.20466 9.96764,19.90489 9.96764,19.90489 0,0 -8.93626,4.47407 -8.59264,15.47011 0.12924,4.13579 3.09424,8.25111 3.09424,8.25111 0,0 8.59487,-2.0641 13.06201,-3.43861 4.46715,-1.3745 6.15625,0 6.15625,0 0,0 -13.71813,14.44244 -12,28.1875 1.71814,13.74505 11.65625,24.71875 11.65625,24.71875 0,0 5.15947,-19.90711 14.09375,-22.3125 8.93429,-2.40538 10.3125,-1.03125 10.3125,-1.03125 -2.96339,12.70944 -4.24832,31.60413 -0.34375,47.40625 0,0 -61.97412,8.1344 -65.96875,15.125 -5.49803,9.62154 32.65551,70.781 32.65551,70.781 0,0 -23.38205,21.66193 -41.25062,38.15601 -7.15063,6.60058 -19.59239,21.65674 -19.59239,21.65674 0,0 8.59721,9.24988 18.21875,8.90625 9.62154,-0.34362 13.0625,-2.0625 13.0625,-2.0625 0,0 8.22865,-17.5089 27.47172,-37.0956 19.24308,-19.58671 86.62203,-69.4044 86.62203,-69.4044 0,0 15.44207,7.90785 28.15625,12.375 12.71418,4.46714 34.375,6.5 34.375,6.5 0,0 -12.00543,18.57457 -12.375,25.78125 C 433.6565,553.62018 449.8125,577 449.8125,577 c 0,0 -34.71949,3.43837 -36.78125,5.84375 -2.06175,2.40539 -22.3125,41.21875 -22.3125,41.21875 0,0 -2.43466,8.25149 5.46875,12.375 7.90341,4.12352 14.78125,-0.6875 14.78125,-0.6875 0,0 5.93507,-13.2384 7.56374,-26.12537 2.06853,-16.36746 20.62674,-12.3745 30.24827,-11.68725 9.62154,0.68725 24.75074,-3.40749 25.43799,-7.18738 0.68726,-3.77989 1.03149,-34.03285 4.46776,-38.5 3.43626,-4.46714 21.28137,-2.40798 21.28137,-2.40798 0,0 -7.21739,26.81434 -4.812,34.37413 2.40538,7.55978 18.21801,23.34709 18.21801,23.34709 0,0 -37.43799,32.65785 -41.90514,39.18676 -4.46714,6.5289 -11.00012,20.62537 -11.34375,21.65625 -0.34362,1.03088 12.69158,10.31163 24.03125,7.90625 11.33967,-2.40539 0.36664,-17.10205 12.03125,-29.5625 17.14313,-18.31276 38.84374,-23.7216 41.24913,-29.21962 2.40538,-5.49803 -14.77754,-35.71961 -7.56138,-45.34115 7.21615,-9.62154 34.00099,-36.78768 37.43725,-49.84548 3.43627,-13.05781 2.0625,-41.90625 2.0625,-41.90625 0,0 20.96986,-3.09374 20.96986,8.59462 0,36.08077 -24.16511,34.70156 -24.75111,66.31163 -0.54154,29.21186 21.79712,48.37592 36.43614,49.46838 23.02296,1.71813 52.56386,-43.28088 52.56386,-43.28088 0,0 -28.26273,3.0188 -29.53261,-4.81213 -2.06177,-12.71418 39.15686,-26.10833 31.94071,-60.47097 -7.21615,-34.36264 -32.88526,-47.69001 -42.25185,-46.4044 -17.52495,2.40539 -30.94355,17.52964 -47.78125,13.0625 -16.83769,-4.46715 -25.07462,-12.72431 -50.50297,-23.72036 -25.42836,-10.99604 -31.60004,-8.91292 -57.37203,-31.93589 -15.41206,-13.7681 -26.20959,-15.39245 -29.56411,-44.68886 -1.68498,-14.7157 7.56411,-18.21739 7.56411,-18.21739 0,0 4.46987,14.09486 7.5625,17.1875 3.09264,3.09263 6.19207,23.71937 16.15724,23.71937 9.96516,0 19.21838,-13.75704 18.53113,-25.44034 -0.68726,-11.6833 1.74531,-26.41453 8.59337,-33.65391 12.02692,-12.71417 11.68701,-36.43762 11.68701,-36.43762 l 66.3125,-48.78125 -71.46875,30.90625 c 4.82484,-6.55491 1.47059,-15.83619 1.375,-24.03125 -3.58899,5.96484 -6.70037,12.13436 -16.5,15.4375 0,0 -10.28199,-3.4375 -12.34375,-3.4375 -2.06176,0 -9.625,-0.34375 -9.625,-0.34375 1.58124,-8.54895 -7.73885,-14.37258 -12.71875,-21.28125 -0.76525,7.54801 -1.44342,15.35724 -3.09375,20.25 l -10.3125,0 c 0,0 -7.1365,-18.87474 -23.37994,-19.56349 -34.47056,-1.46161 -54.96468,-9.96677 -54.96468,-9.96677 z m -9.96837,249.46689 12.03001,3.78249 c -14.86755,8.86778 -24.71693,25.0229 -37.81188,37.43589 -6.99245,-11.36726 -21.35832,-21.27846 -22.65514,-39.15501 16.87031,0.51995 34.19788,1.802 48.43701,-2.06337 z"
+         id="path5581"
+         style="fill:#339966;fill-opacity:0.99215686;stroke:none" />
+    </g>
+    <text
+       sodipodi:linespacing="125%"
+       xml:space="preserve"
+       x="9.8661337"
+       y="1043.1993"
+       style="font-size:20px;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;display:inline;font-family:Linux Biolinum O"
+       id="text4175"><tspan
+         x="9.8661337"
+         y="1043.1993"
+         id="tspan4177">Brandon Harris &amp; Isarra,, CC-By-SA</tspan></text>
+    <g
+       id="layer4"
+       style="display:inline"
+       transform="translate(221.90126,100.37085)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     transform="translate(0,-302.36)"
+     inkscape:label="50-Instanciation"
+     style="opacity:0.98999999;display:inline"
+     id="g4392"
+     sodipodi:insensitive="true">
+    <rect
+       x="0"
+       y="302.35999"
+       width="1000"
+       height="750"
+       ry="0"
+       style="fill-rule:evenodd;display:inline"
+       id="rect4394" />
+    <text
+       sodipodi:linespacing="125%"
+       x="236.66431"
+       y="100.61622"
+       transform="translate(0,302.36)"
+       xml:space="preserve"
+       style="font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;font-family:Linux Libertine Display O"
+       id="text4397"><tspan
+         y="100.61622"
+         x="236.66431"
+         id="tspan4399" /></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4401"
+       y="698.15198"
+       x="495.64462"
+       style="font-size:101.17749023px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Linux Biolinum O;-inkscape-font-specification:Linux Biolinum O"
+       xml:space="preserve"><tspan
+         id="tspan4403"
+         y="698.15198"
+         x="495.64462"
+         sodipodi:role="line">Instanciation</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:0.39215686;stroke:none;font-family:Linux Biolinum O;-inkscape-font-specification:Linux Biolinum O"
+       x="75.644623"
+       y="1017.4456"
+       id="text4405"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="75.644623"
+         y="1017.4456"
+         id="tspan4407">History</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4409"
+       y="1017.4456"
+       x="238.13579"
+       style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:0.39215686;stroke:none;font-family:Linux Biolinum O;-inkscape-font-specification:Linux Biolinum O"
+       xml:space="preserve"><tspan
+         id="tspan4411"
+         y="1017.4456"
+         x="238.13579"
+         sodipodi:role="line">Values</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:0.39215686;stroke:none;font-family:Linux Biolinum O;-inkscape-font-specification:Linux Biolinum O"
+       x="406.19781"
+       y="1017.4456"
+       id="text4413"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="406.19781"
+         y="1017.4456"
+         id="tspan4415">Internals</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4417"
+       y="1017.4456"
+       x="915.64465"
+       style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:0.39215686;stroke:none;font-family:Linux Biolinum O;-inkscape-font-specification:Linux Biolinum O"
+       xml:space="preserve"><tspan
+         id="tspan4419"
+         y="1017.4456"
+         x="915.64465"
+         sodipodi:role="line">Future</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Linux Biolinum O;-inkscape-font-specification:Linux Biolinum O"
+       x="570.83209"
+       y="1017.4456"
+       id="text4421"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="570.83209"
+         y="1017.4456"
+         id="tspan4423">Instanciation</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4425"
+       y="1017.4456"
+       x="741.45959"
+       style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:0.39215686;stroke:none;font-family:Linux Biolinum O;-inkscape-font-specification:Linux Biolinum O"
+       xml:space="preserve"><tspan
+         id="tspan4427"
+         y="1017.4456"
+         x="741.45959"
+         sodipodi:role="line">Learnings</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     transform="translate(0,-302.36)"
+     inkscape:label="51-1"
+     style="opacity:0.98999999;display:inline"
+     id="g4301"
+     sodipodi:insensitive="true">
+    <rect
+       x="0"
+       y="302.35999"
+       width="1000"
+       height="750"
+       ry="0"
+       style="fill-rule:evenodd;display:inline"
+       id="rect4303" />
+    <text
+       sodipodi:linespacing="125%"
+       x="236.66431"
+       y="100.61622"
+       transform="translate(0,302.36)"
+       xml:space="preserve"
+       style="font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;font-family:Linux Libertine Display O"
+       id="text4305"><tspan
+         y="100.61622"
+         x="236.66431"
+         id="tspan4307" /></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4309"
+       y="884.85986"
+       x="302.12225"
+       style="font-size:77.08573151px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Linux Biolinum O;-inkscape-font-specification:Linux Biolinum O"
+       xml:space="preserve"
+       transform="scale(0.99225516,1.0078053)"><tspan
+         sodipodi:role="line"
+         x="302.12225"
+         y="884.85986"
+         id="tspan4357">the projects'</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Linux Biolinum O;-inkscape-font-specification:Linux Biolinum O"
+       x="134.82968"
+       y="192.70396"
+       id="text4341"
+       sodipodi:linespacing="125%"
+       transform="translate(0,302.36)"><tspan
+         sodipodi:role="line"
+         id="tspan4343"
+         x="134.82968"
+         y="192.70396" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:443.10238647px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Linux Biolinum O;-inkscape-font-specification:Linux Biolinum O"
+       x="81.868134"
+       y="662.74005"
+       id="text4345"
+       sodipodi:linespacing="125%"><tspan
+         y="662.74005"
+         x="81.868134"
+         id="tspan4349"
+         sodipodi:role="line">“</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4353"
+       y="1232.6212"
+       x="876.91437"
+       style="font-size:443.10238647px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Linux Biolinum O;-inkscape-font-specification:Linux Biolinum O"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         id="tspan4355"
+         x="876.91437"
+         y="1232.6212">”</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:101.84752655px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Linux Biolinum O;-inkscape-font-specification:Linux Biolinum O"
+       x="698.0387"
+       y="890.93872"
+       id="text4359"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan4365"
+         y="890.93872"
+         x="698.0387"
+         sodipodi:role="line">sexyness</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:77.08573151px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Linux Biolinum O;-inkscape-font-specification:Linux Biolinum O"
+       x="400.40961"
+       y="515.54797"
+       id="text4376"
+       sodipodi:linespacing="125%"
+       transform="scale(0.99225516,1.0078053)"><tspan
+         y="515.54797"
+         x="400.40961"
+         sodipodi:role="line"
+         id="tspan4380">Please, no souless</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4384"
+       y="784.09546"
+       x="422.60352"
+       style="font-size:77.08573151px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Linux Biolinum O;-inkscape-font-specification:Linux Biolinum O"
+       xml:space="preserve"
+       transform="scale(0.99225516,1.0078053)"><tspan
+         id="tspan4386"
+         sodipodi:role="line"
+         x="422.60352"
+         y="784.09546">we want to preserve</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4388"
+       y="610.42004"
+       x="601.05975"
+       style="font-size:77.08573151px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Linux Biolinum O;-inkscape-font-specification:Linux Biolinum O"
+       xml:space="preserve"
+       transform="scale(0.99225516,1.0078053)"><tspan
+         id="tspan4390"
+         sodipodi:role="line"
+         x="610.6955"
+         y="610.42004">harsh numbers ; </tspan></text>
+  </g>
+  <g
+     id="g4429"
+     style="opacity:0.98999999;display:inline"
+     inkscape:label="52-2"
+     transform="translate(0,-302.36)"
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
+    <rect
+       id="rect4431"
+       style="fill-rule:evenodd;display:inline"
+       ry="0"
+       height="750"
+       width="1000"
+       y="302.35999"
+       x="0" />
+    <text
+       id="text4433"
+       style="font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;font-family:Linux Libertine Display O"
+       xml:space="preserve"
+       transform="translate(0,302.36)"
+       y="100.61622"
+       x="236.66431"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan4435"
+         x="236.66431"
+         y="100.61622" /></text>
+    <text
+       transform="translate(0,302.36)"
+       sodipodi:linespacing="125%"
+       id="text4441"
+       y="192.70396"
+       x="134.82968"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Linux Biolinum O;-inkscape-font-specification:Linux Biolinum O"
+       xml:space="preserve"><tspan
+         y="192.70396"
+         x="134.82968"
+         id="tspan4443"
+         sodipodi:role="line" /></text>
+    <text
+       transform="scale(0.99225516,1.0078053)"
+       sodipodi:linespacing="125%"
+       id="text4458"
+       y="644.08252"
+       x="503.55002"
+       style="font-size:70.96562958px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Linux Biolinum O;-inkscape-font-specification:Linux Biolinum O"
+       xml:space="preserve"><tspan
+         id="tspan4460"
+         sodipodi:role="line"
+         x="503.55002"
+         y="644.08252">Categories from which the first</tspan><tspan
+         sodipodi:role="line"
+         x="503.55002"
+         y="732.78955"
+         id="tspan4470">image is from a given collection</tspan></text>
+  </g>
+  <g
+     id="g4265"
+     style="opacity:0.98999999;display:inline"
+     inkscape:label="60-Learnings"
+     transform="translate(0,-302.36)"
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
+    <rect
+       id="rect4267"
+       style="fill-rule:evenodd;display:inline"
+       ry="0"
+       height="750"
+       width="1000"
+       y="302.35999"
+       x="0" />
+    <text
+       id="text4269"
+       style="font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;font-family:Linux Libertine Display O"
+       xml:space="preserve"
+       y="100.61622"
+       x="236.66431"
+       sodipodi:linespacing="125%"
+       transform="translate(0,302.36)"><tspan
+         id="tspan4271"
+         x="236.66431"
+         y="100.61622" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:101.17749023px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Linux Biolinum O;-inkscape-font-specification:Linux Biolinum O"
+       x="495.64462"
+       y="698.15198"
+       id="text4273"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="495.64462"
+         y="698.15198"
+         id="tspan4275">Learnings</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4277"
+       y="1017.4456"
+       x="75.644623"
+       style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:0.39215686;stroke:none;font-family:Linux Biolinum O;-inkscape-font-specification:Linux Biolinum O"
+       xml:space="preserve"><tspan
+         id="tspan4279"
+         y="1017.4456"
+         x="75.644623"
+         sodipodi:role="line">History</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:0.39215686;stroke:none;font-family:Linux Biolinum O;-inkscape-font-specification:Linux Biolinum O"
+       x="238.13579"
+       y="1017.4456"
+       id="text4281"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="238.13579"
+         y="1017.4456"
+         id="tspan4283">Values</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4285"
+       y="1017.4456"
+       x="406.19781"
+       style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:0.39215686;stroke:none;font-family:Linux Biolinum O;-inkscape-font-specification:Linux Biolinum O"
+       xml:space="preserve"><tspan
+         id="tspan4287"
+         y="1017.4456"
+         x="406.19781"
+         sodipodi:role="line">Internals</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:0.39215686;stroke:none;font-family:Linux Biolinum O;-inkscape-font-specification:Linux Biolinum O"
+       x="915.64465"
+       y="1017.4456"
+       id="text4289"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="915.64465"
+         y="1017.4456"
+         id="tspan4291">Future</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4293"
+       y="1017.4456"
+       x="570.83209"
+       style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:0.39215686;stroke:none;font-family:Linux Biolinum O;-inkscape-font-specification:Linux Biolinum O"
+       xml:space="preserve"><tspan
+         id="tspan4295"
+         y="1017.4456"
+         x="570.83209"
+         sodipodi:role="line">Instanciation</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Linux Biolinum O;-inkscape-font-specification:Linux Biolinum O"
+       x="741.45959"
+       y="1017.4456"
+       id="text4297"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="741.45959"
+         y="1017.4456"
+         id="tspan4299">Learnings</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     transform="translate(0,-302.36)"
+     inkscape:label="61-Perspectives"
+     style="opacity:0.98999999;display:inline"
+     id="g4472"
+     sodipodi:insensitive="true">
+    <rect
+       x="0"
+       y="302.35999"
+       width="1000"
+       height="750"
+       ry="0"
+       style="fill-rule:evenodd;display:inline"
+       id="rect4474" />
+    <image
+       y="302.35999"
+       x="0"
+       id="image4541"
+       xlink:href="file:///home/jfk/Tuile/Presentations/wm_metrics-Wikimania-2014-08-08/media/Monocular_Mount_Diablo.jpg"
+       height="750"
+       width="1000" />
+    <text
+       transform="translate(0,302.36)"
+       sodipodi:linespacing="125%"
+       x="236.66431"
+       y="100.61622"
+       xml:space="preserve"
+       style="font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;font-family:Linux Libertine Display O"
+       id="text4476"><tspan
+         y="100.61622"
+         x="236.66431"
+         id="tspan4478" /></text>
+    <text
+       id="text6106-8"
+       style="font-size:49.99994659px;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;display:inline;font-family:Linux Biolinum O"
+       transform="scale(0.99098099,1.0091011)"
+       y="481.87842"
+       x="723.86768"
+       xml:space="preserve"
+       sodipodi:linespacing="100%"><tspan
+         id="tspan5051"
+         y="481.87842"
+         x="723.86768"
+         style="font-size:49.99994659px;line-height:100%;fill:#ffffff;font-family:Linux Biolinum O">Refactoring</tspan></text>
+    <rect
+       id="rect408-9-9-9-3-1"
+       style="fill:#ffffff;fill-opacity:0.63999999;display:inline"
+       class="license"
+       width="243.88"
+       y="1022.36"
+       x="0"
+       height="30" />
+    <text
+       id="text3790-28"
+       style="font-size:20px;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;display:inline;font-family:Linux Biolinum O"
+       y="1043.1993"
+       x="9.8660889"
+       xml:space="preserve"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan3792-2"
+         y="1043.1993"
+         x="9.8660889">Daniel Schwen, CC-By-SA</tspan></text>
+    <text
+       id="text5091"
+       style="font-size:49.99994659px;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;display:inline;font-family:Linux Biolinum O"
+       xml:space="preserve"
+       transform="scale(0.99098099,1.0091011)"
+       y="411.49878"
+       x="573.0799"
+       sodipodi:linespacing="100%"><tspan
+         id="tspan5099"
+         x="573.0799"
+         style="font-size:49.99994659px;line-height:100%;fill:#ffffff;font-family:Linux Biolinum O"
+         y="411.49878">More web interface</tspan></text>
+  </g>
+  <g
+     id="g4544"
+     style="opacity:0.98999999;display:inline"
+     inkscape:label="62-Help"
+     transform="translate(0,-302.36)"
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
+    <rect
+       id="rect4546"
+       style="fill-rule:evenodd;display:inline"
+       ry="0"
+       height="750"
+       width="1000"
+       y="302.35999"
+       x="0" />
+    <image
+       y="537.16565"
+       x="450"
+       id="image4576"
+       xlink:href="file:///home/jfk/Tuile/Presentations/wm_metrics-Wikimania-2014-08-08/media/Beer.jpg"
+       height="515.19434"
+       width="686.92578" />
+    <text
+       id="text4550"
+       style="font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;font-family:Linux Libertine Display O"
+       xml:space="preserve"
+       y="100.61622"
+       x="236.66431"
+       sodipodi:linespacing="125%"
+       transform="translate(0,302.36)"><tspan
+         id="tspan4552"
+         x="236.66431"
+         y="100.61622" /></text>
+    <text
+       sodipodi:linespacing="100%"
+       xml:space="preserve"
+       x="118.808"
+       y="696.15283"
+       transform="scale(0.99098099,1.0091011)"
+       style="font-size:75.11063385px;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;display:inline;font-family:Linux Biolinum O"
+       id="text4554"><tspan
+         style="font-size:75.11063385px;line-height:100%;fill:#ffffff;font-family:Linux Biolinum O"
+         x="118.808"
+         y="696.15283"
+         id="tspan4556">Use it!</tspan></text>
+    <rect
+       height="30"
+       x="0"
+       y="1022.36"
+       width="142.75774"
+       class="license"
+       style="fill:#ffffff;fill-opacity:0.63999999;display:inline"
+       id="rect4558" />
+    <text
+       sodipodi:linespacing="125%"
+       xml:space="preserve"
+       x="9.8660889"
+       y="1043.1993"
+       style="font-size:20px;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;display:inline;font-family:Linux Biolinum O"
+       id="text4560"><tspan
+         x="9.8660889"
+         y="1043.1993"
+         id="tspan4562">vox efx, CC-By</tspan></text>
+    <text
+       sodipodi:linespacing="100%"
+       x="41.786137"
+       y="420.58163"
+       transform="scale(0.99098099,1.0091011)"
+       xml:space="preserve"
+       style="font-size:119.80233002px;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;display:inline;font-family:Linux Biolinum O"
+       id="text4564"><tspan
+         y="420.58163"
+         style="font-size:119.80233002px;line-height:100%;fill:#ffffff;font-family:Linux Biolinum O"
+         x="41.786137"
+         id="tspan4566">How to help?</tspan></text>
+    <text
+       id="text4583"
+       style="font-size:75.11063385px;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;display:inline;font-family:Linux Biolinum O"
+       transform="scale(0.99098099,1.0091011)"
+       y="826.57916"
+       x="27.677673"
+       xml:space="preserve"
+       sodipodi:linespacing="100%"><tspan
+         id="tspan4585"
+         y="826.57916"
+         x="27.677673"
+         style="font-size:75.11063385px;line-height:100%;fill:#ffffff;font-family:Linux Biolinum O">Submit issues</tspan></text>
+    <text
+       sodipodi:linespacing="100%"
+       xml:space="preserve"
+       x="17.225685"
+       y="875.1825"
+       transform="scale(0.99098099,1.0091011)"
+       style="font-size:37.44646072px;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;display:inline;font-family:Linux Biolinum O"
+       id="text4587"><tspan
+         style="font-size:37.44646072px;line-height:100%;fill:#ffffff;font-family:Linux Biolinum O"
+         x="17.225685"
+         y="875.1825"
+         id="tspan4589">(bugs &amp; high-level questions)</tspan></text>
+  </g>
+  <g
      id="g7702"
-     style="display:none"
+     style="display:inline"
      inkscape:label="99-Last"
      inkscape:groupmode="layer"
      sodipodi:insensitive="true">
@@ -504,17 +2133,26 @@
     <text
        id="text4453"
        style="font-size:44.1780014px;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;display:inline;font-family:Linux Libertine O"
-       y="543.93719"
+       y="583.93719"
        x="95.434082"
        xml:space="preserve"
        sodipodi:linespacing="125%"><tspan
          id="tspan4455"
-         y="543.93719"
-         x="95.434082">https://github.com/Commonists/wm_metrics</tspan></text>
+         y="583.93719"
+         x="95.434082">https://github.com/Commonists/wm_metrics</tspan><tspan
+         y="583.93719"
+         x="95.434082"
+         id="tspan4179" /><tspan
+         y="583.93719"
+         x="95.434082"
+         id="tspan4181" /><tspan
+         y="583.93719"
+         x="95.434082"
+         id="tspan4183" /></text>
     <g
        id="g4513"
        style="display:inline"
-       transform="translate(3.8729e-6,-42.125)">
+       transform="translate(3.8729e-6,-22.125)">
       <rect
          id="rect4471"
          style="fill:#ffffff;fill-rule:evenodd"
@@ -568,5 +2206,12 @@
         </g>
       </g>
     </g>
+    <text
+       sodipodi:linespacing="125%"
+       xml:space="preserve"
+       x="162.18361"
+       y="523.93719"
+       style="font-size:44.1780014px;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;display:inline;font-family:Linux Libertine O"
+       id="text4192">http://tools.wmflabs.org/wm-metrics/</text>
   </g>
 </svg>
